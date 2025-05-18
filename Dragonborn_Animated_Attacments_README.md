@@ -1,4 +1,4 @@
-Dragonborn Animated Attacments
+Dragonborn Animated Attachments
 
 ModIO
 Nexus
