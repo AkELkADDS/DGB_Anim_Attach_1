@@ -1,0 +1,336 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+   Mon 05/19/2025  6:41:12.03 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\meta.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\CharacterCreation\CharacterCreationSharedVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\MFLP_Head_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Assets\Characters\_Models\_Hair\HAIR_HUM_M_Braids_Long_B_Spring_Base_000.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Content\Assets\Characters\Mindflayer_Player\[PAK]_MFL_Player_Body\30b7d141-ff86-d2d3-5020-3be0e1da2724.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Content\Assets\Characters\Mindflayer_Player\[PAK]_MFL_Player_Head\172ae09b-2d22-5611-1892-0fc4d27bcb3c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Content\Assets\Characters\Mindflayer_Player\[PAK]_MFL_Player_Head\a2ae0b7c-94ce-2b32-f7a4-e778df0b54eb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\SharedDev\Assets\Characters\_Anims\Mindflayer_Player\Resources\MFLP_Head_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\SharedDev\Assets\Characters\_Anims\Mindflayer_Player\Resources\MFLP_Head_A.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4: 8 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\SharedDev\Assets\Characters\_Anims\Mindflayer_Player\Resources\MFLP_Head_A.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4: 1 
+ 
+[LOG] Total files found across all folders: 14 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Projects\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 to Projects\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[DEBUG] Using destination: Projects\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:41:15 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Projects\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     695	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\meta.lsx100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :       695       695         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 6:41:15 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Editor\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 to "Editor\Mods"\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[DEBUG] Using destination: Editor\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:41:17 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Editor\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   14295	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+	    New File  		     142	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\CharacterCreation\CharacterCreationSharedVisuals.tbl100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         6         6         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    14.0 k    14.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            14437000 Bytes/sec.
+   Speed :             826.091 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:41:17 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 to Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[DEBUG] Using destination: Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:41:18 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    2652	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\meta.lsx100%  
+	    New File  		    1174	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :     3.7 k     3.7 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             3826000 Bytes/sec.
+   Speed :             218.925 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:41:18 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 to Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[DEBUG] Using destination: Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:41:20 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  205704	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\MFLP_Head_A.GR2100%  
+	    New File  		    9736	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		   10024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Assets\Characters\_Models\_Hair\HAIR_HUM_M_Braids_Long_B_Spring_Base_000.GR2100%  
+	    New File  		    9659	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Content\Assets\Characters\Mindflayer_Player\[PAK]_MFL_Player_Body\30b7d141-ff86-d2d3-5020-3be0e1da2724.lsf100%  
+	    New File  		   22191	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Content\Assets\Characters\Mindflayer_Player\[PAK]_MFL_Player_Head\172ae09b-2d22-5611-1892-0fc4d27bcb3c.lsf100%  
+	    New File  		    3004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Content\Assets\Characters\Mindflayer_Player\[PAK]_MFL_Player_Head\a2ae0b7c-94ce-2b32-f7a4-e778df0b54eb.lsf100%  
+	    New File  		  205704	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\SharedDev\Assets\Characters\_Anims\Mindflayer_Player\Resources\MFLP_Head_A.GR2100%  
+	    New File  		     192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\SharedDev\Assets\Characters\_Anims\Mindflayer_Player\Resources\MFLP_Head_A.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        20        20         1         0         0         0
+   Files :         8         8         0         0         0         0
+   Bytes :   455.2 k   455.2 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           116553500 Bytes/sec.
+   Speed :            6669.244 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:41:20 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 8 
+[DEBUG] Successfully copied files: 8 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4: 
+      Total files: 8 
+      Copied successfully: 8 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Generated\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 to "Generated\Public"\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[DEBUG] Using destination: Generated\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:41:22 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\Generated\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  205704	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4\SharedDev\Assets\Characters\_Anims\Mindflayer_Player\Resources\MFLP_Head_A.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         7         7         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :   200.8 k   200.8 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Monday, May 19, 2025 6:41:22 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 8 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Anim_Attach_1_610370df-aab5-f438-c242-e359d4a23cd4 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 14 
+[SUMMARY] Total files successfully copied: 28 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

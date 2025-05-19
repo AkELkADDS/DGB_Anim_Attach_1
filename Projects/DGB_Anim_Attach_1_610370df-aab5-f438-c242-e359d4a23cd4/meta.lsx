@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="610370df-aab5-f438-c242-e359d4a23cd4"/>
+            <attribute id="Name" type="LSString" value="DGB_Anim_Attach_1"/>
+            <attribute id="UUID" type="LSString" value="29b4cc7c-d69f-e4e8-8a38-0c8c5f617541"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
